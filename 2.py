@@ -1,0 +1,6 @@
+a=int(3)
+b=int(4)
+c=int((a**2+b**2)**0.5)
+p=(a+b+c)
+s=(a*b)
+print('p='+str(p),'s='+str(s))
